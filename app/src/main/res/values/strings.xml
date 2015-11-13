@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlickrConsumer</string>
+    <string name="search_hint">tag/category</string>
+    <string name="cantPerformActionMsg">Can\'t perform this actions now. Try again later</string>
+</resources>
